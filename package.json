@@ -1,0 +1,20 @@
+{
+  "name": "wild-horizons",
+  "version": "1.0.0",
+  "description": "a dataset of the planet's most interesting places",
+  "homepage": "https://github.com/codendive/wild-horizons-nodejs#readme",
+  "bugs": {
+    "url": "https://github.com/codendive/wild-horizons-nodejs/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codendive/wild-horizons-nodejs.git"
+  },
+  "license": "ISC",
+  "author": "Fredrik Strömberg",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
